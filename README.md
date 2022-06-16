@@ -5,6 +5,15 @@ Various deep learning models for learning patient representations from sequentia
 - Python 3.7.13
 - PyTorch 1.11.0
 
+## Data Downloading and Preparation
+First, please download the following MIMIC-III data files from [PhysioNet](https://physionet.org/content/mimiciii/1.4/) to the directory MIMIC3_data:
+- ADMISSIONS.csv
+- PATIENTS.csv
+- DIAGNOSES_ICD.csv
+- D_ICD_DIAGNOSES.csv
+
+Second, please upzip the two zipped files in the directory MIMIC3_data/code_related.
+
 ## References
 [1] Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun. "Doctor AI: Predicting Clinical Events via Recurrent Neural Networks." Machine Learning for Healthcare Conference. 2016.
 
