@@ -8,6 +8,6 @@ Various deep learning models for learning patient representations from sequentia
 ## References
 [1] Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun. "Doctor AI: Predicting Clinical Events via Recurrent Neural Networks." Machine Learning for Healthcare Conference. 2016.
 
-[2] Chang Lu, Chandan K. Reddy, Prithwish Chakraborty, Samantha Kleinberg, Yue Ning. "Collaborative Graph Learning with Auxiliary Text for Temporal Event Prediction in Healthcare." International Joint Conferences on Artificial Intelligence. 2021.
-
 [3] Edward Choi, Mohammad Taha Bahadori, Le Song, Walter F. Stewart, Jimeng Sun. "GRAM: Graph-based Attention Model for Healthcare Representation Learning." ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2017.
+
+[2] Chang Lu, Chandan K. Reddy, Prithwish Chakraborty, Samantha Kleinberg, Yue Ning. "Collaborative Graph Learning with Auxiliary Text for Temporal Event Prediction in Healthcare." International Joint Conferences on Artificial Intelligence. 2021.
