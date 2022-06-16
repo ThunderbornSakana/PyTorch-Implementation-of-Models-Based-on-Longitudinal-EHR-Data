@@ -14,6 +14,13 @@ First, please download the following MIMIC-III data files from [PhysioNet](https
 
 Second, please upzip the two zipped files in the directory MIMIC3_data/code_related.
 
+## Implemented Models
+Name  | Venue   |  Year
+----- | -----   | -----
+Doctor AI | Machine Learning for Healthcare | 2016
+GRAM  | KDD | 2017
+CGL   | IJCAI | 2021
+
 ## References
 [1] Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun. "Doctor AI: Predicting Clinical Events via Recurrent Neural Networks." Machine Learning for Healthcare Conference. 2016.
 
