@@ -1,5 +1,5 @@
-# PyTorch-Implementation-of-Models-Based-on-Longitudinal-EHR-Data
-Various deep learning models for learning patient representations from sequential electronic health records (EHR) data have been proposed in recent years. However, some of these works either do not have open source code, or do not have the PyTorch implementation. This repository provides the PyTorch implementation of state-of-the-art deep learning models based on longitudinal EHR data. The standardized code for pre-processing MIMIC-III data is also provided. Two healthcare tasks, diagnosis prediction and mortality prediction, are implemented for all the models included in this repository. Models in this repository are fully supported to run on the GPU.
+# PyTorch Implementation of Models Based on Longitudinal EHR Data
+Various deep learning models for learning patient representations from sequential electronic health records (EHR) data have been proposed in recent years. However, some of these works either do not have open source code, or do not have the PyTorch implementation. This repository provides the PyTorch implementation of state-of-the-art deep learning models based on longitudinal EHR data. The standardized code for pre-processing MIMIC-III data is also provided. Two healthcare tasks, diagnosis prediction and mortality prediction, are implemented for all the models included in this repository. Models in this repository are fully supported to run on GPU.
 
 ## Requirements
 - Python 3.7.13
