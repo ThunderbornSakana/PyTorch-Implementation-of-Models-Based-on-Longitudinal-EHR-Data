@@ -6,13 +6,13 @@ Various deep learning models for learning patient representations from sequentia
 - PyTorch 1.11.0
 
 ## Data Downloading and Preparation
-First, please download the following MIMIC-III data files from [PhysioNet](https://physionet.org/content/mimiciii/1.4/) to the directory MIMIC3_data:
+First, please download the following MIMIC-III data files from [PhysioNet](https://physionet.org/content/mimiciii/1.4/) to the directory [MIMIC3_data](https://github.com/ThunderbornSakana/PyTorch-Implementation-of-Models-Based-on-Longitudinal-EHR-Data/tree/main/MIMIC3_data):
 - ADMISSIONS.csv
 - PATIENTS.csv
 - DIAGNOSES_ICD.csv
 - D_ICD_DIAGNOSES.csv
 
-Second, please upzip the two zipped files in the directory MIMIC3_data/code_related.
+Second, please upzip the two zipped files in the directory [MIMIC3_data/code_related](https://github.com/ThunderbornSakana/PyTorch-Implementation-of-Models-Based-on-Longitudinal-EHR-Data/tree/main/MIMIC3_data/code_related).
 
 ## Implemented Models
 Name  | Venue   |  Year
